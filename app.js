@@ -6,6 +6,7 @@ var config = {
     apiKey: "AIzaSyCai4sutAbFFUKJEkb5fXtZDyroOUr8NlE",
     authDomain: "rps-game-76196.firebaseapp.com",
     databaseURL: "https://rps-game-76196.firebaseio.com",
+    projectId: "rps-game-76196",
     storageBucket: "rps-game-76196.appspot.com",
   };
   
